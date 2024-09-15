@@ -1,8 +1,7 @@
-# ICS_CP_CodeSmashers
 
 **README**
 
-# To-Do Reminder App
+# To-Do Reminder in C
 
 Welcome to the To-Do Reminder App! This simple console application helps you manage your tasks efficiently by providing features like adding tasks, deleting tasks, marking tasks as completed, viewing all tasks, and categorizing tasks. The tasks are stored in a text file, and the app uses a menu-driven approach for user interaction.
 
