@@ -50,27 +50,5 @@ The application ensures the validity of the due date input using a `checkValidit
 
 The main function initializes the task number, displays a welcome message and the main menu, and executes the corresponding action based on the user's choice. The application runs in a loop until the user chooses to exit.
 
-## UI Enhancement
-
-The UI is enhanced with boxed text for menu options, providing a visually appealing interface for the user.
-
-## How to Use
-
-1. **Compile and Run**
-   - Compile the program using a C compiler.
-   - Run the executable.
-
-2. **Main Menu**
-   - Choose an option by entering the corresponding number.
-   - Follow the prompts to perform tasks such as adding, deleting, marking as done, or viewing tasks.
-
-3. **Task Input**
-   - Follow the prompts to input task details such as name, category, due date, due time, and description.
-
-4. **Category View**
-   - When viewing tasks by category, tasks are organized under predefined categories or "Other" if no match is found.
-
-5. **Exit**
-   - Choose option 6 to exit the application.
 
 Enjoy using the To-Do Reminder App to stay organized and on top of your tasks!
